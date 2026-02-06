@@ -9,9 +9,9 @@
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6.2.0-512BD4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-**Đồ Án Công Nghệ Phần Mềm - Nhóm 5**
+**Đồ Án Công Nghệ Phần Mềm**
 
-[Tính năng](#-tính-năng) • [Công nghệ](#-công-nghệ-sử-dụng) • [Cài đặt](#-hướng-dẫn-cài-đặt) • [Sử dụng](#-hướng-dẫn-sử-dụng) • [Nhóm phát triển](#-thành-viên-nhóm)
+[Tính năng](#-tính-năng) • [Công nghệ](#-công-nghệ-sử-dụng) • [Cài đặt](#-hướng-dẫn-cài-đặt) • [Sử dụng](#-hướng-dẫn-sử-dụng)
 
 </div>
 
@@ -26,19 +26,17 @@
 - [Hướng dẫn cài đặt](#-hướng-dẫn-cài-đặt)
 - [Hướng dẫn sử dụng](#-hướng-dẫn-sử-dụng)
 - [Cấu trúc dự án](#-cấu-trúc-dự-án)
-- [Thành viên nhóm](#-thành-viên-nhóm)
 - [Giấy phép](#-giấy-phép)
 
 ---
 
 ## 🎯 Giới Thiệu
 
-**Hệ Thống Quản Lý Bán Xe Ô Tô VinFast** là một ứng dụng web quản lý và kinh doanh xe ô tô trực tuyến được phát triển bởi Nhóm 5 trong khuôn khổ môn học Công Nghệ Phần Mềm. Hệ thống cung cấp giải pháp toàn diện cho việc quản lý showroom xe hơi, từ quản lý sản phẩm, khách hàng đến xử lý đơn hàng.
+**Hệ Thống Quản Lý Bán Xe Ô Tô VinFast** là một ứng dụng web quản lý và kinh doanh xe ô tô trực tuyến được phát triển trong khuôn khổ môn học Công Nghệ Phần Mềm. Hệ thống cung cấp giải pháp toàn diện cho việc quản lý showroom xe hơi, từ quản lý sản phẩm, khách hàng đến xử lý đơn hàng.
 
 ### 🎓 Thông Tin Đồ Án
 
 - **Môn học:** Công Nghệ Phần Mềm (Software Engineering)
-- **Nhóm:** Nhóm 5
 - **Năm học:** 2024-2025
 - **Đề tài:** Hệ Thống Quản Lý Bán Xe Ô Tô
 
@@ -203,8 +201,8 @@ CARSALE_DB
 #### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/HoaiNam2k5/DA_CNPM_GROUP_5.git
-cd DA_CNPM_GROUP_5
+git clone hhttps://github.com/Kstill6120/HoangPhi.git
+cd DA_CNPM
 ```
 
 #### 2️⃣ Cấu Hình Database
@@ -469,7 +467,7 @@ DA_CNPM_GROUP_5/
 
 | STT | Họ và Tên | GitHub | Vai Trò |
 |-----|-----------|--------|---------|
-| 1 | **Hoài Nam** | [@HoaiNam2k5](https://github.com/HoaiNam2k5) | Team Leader, Full-stack Developer |
+| 1 | **Hoàng Phi** | [@Kstill6120](https://github.com/Kstill6120/HoangPhi) | Team Leader, Full-stack Developer |
 | - | _Các thành viên khác_ | - | _Đang cập nhật..._ |
 
 </div>
@@ -502,7 +500,7 @@ Chúng tôi rất hoan nghênh mọi đóng góp cho dự án! Nếu bạn muố
 ## 🐛 Báo Lỗi
 
 Nếu bạn phát hiện lỗi hoặc có đề xuất tính năng mới, vui lòng:
-1. Tạo [Issue](https://github.com/HoaiNam2k5/DA_CNPM_GROUP_5/issues) mới
+1. Tạo [Issue](https://github.com/Kstill6120/issues) mới
 2. Mô tả chi tiết vấn đề
 3. Đính kèm screenshots nếu có
 
@@ -510,9 +508,9 @@ Nếu bạn phát hiện lỗi hoặc có đề xuất tính năng mới, vui l�
 
 ## 📞 Liên Hệ
 
-- **GitHub:** [@HoaiNam2k5](https://github.com/HoaiNam2k5)
-- **Repository:** [https://github.com/HoaiNam2k5/DA_CNPM_GROUP_5](https://github.com/HoaiNam2k5/DA_CNPM_GROUP_5)
-- **Issues:** [Report Issues](https://github.com/HoaiNam2k5/DA_CNPM_GROUP_5/issues)
+- **GitHub:** [@Kstill6120]([https://github.com/Kstill6120](https://github.com/Kstill6120)
+- **Repository:** [https://github.com/Kstill6120/HoangPhi](https://github.com/Kstill6120/HoangPhi)
+- **Issues:** [Report Issues](https://github.com/Kstill6120/HoangPhi/issues)
 
 ---
 
@@ -523,7 +521,7 @@ Dự án này được phát triển cho mục đích học tập trong khuôn k
 ```
 MIT License
 
-Copyright (c) 2024 Nhóm 5 - DA_CNPM_GROUP_5
+Copyright (c) 2024 DA_CNPM
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -557,9 +555,9 @@ SOFTWARE.
 
 <div align="center">
 
-### ⭐ Nếu bạn thấy dự án hữu ích, hãy cho chúng tôi một Star! ⭐
+### ⭐ Nếu bạn thấy dự án hữu ích, hãy cho tôi một Star! ⭐
 
-**Made with ❤️ by Nhóm 5**
+**Made with ❤️ by Hoàng Phi**
 
 </div>
 
